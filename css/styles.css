@@ -65,6 +65,15 @@
   overflow: hidden;
   margin-bottom: 30px;
 }
+
+.boxt {
+  width: 200px;
+  height: 200px; 
+  border-radius: 30%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
@@ -11370,7 +11379,7 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: orange;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
