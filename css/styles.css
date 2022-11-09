@@ -11519,3 +11519,11 @@ html {
   font-size: 13px;
   border: 4px dashed #bcbcbc;
 }
+
+
+.lineTextSet3
+{
+  font-family: Consolas, monospace;
+  font-size: 13px;
+  border: 4px dashed gray;
+}
