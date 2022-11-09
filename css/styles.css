@@ -11511,3 +11511,11 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.lineTextSet
+{
+  margin: 10px 0px;
+  font-family: Consolas, monospace;
+  font-size: 13px;
+  border: 4px dashed #bcbcbc;
+}
