@@ -11535,13 +11535,13 @@ html {
   width: 10px;
 }
 .wrap-vertical::-webkit-scrollbar-thumb {
-  background-color: black;
+  background-color: gray;
 
-  border: 2px solid black;
+  border: 2px solid gray;
   border-radius: 12px 12px 12px 12px;
 }
 .wrap-vertical::-webkit-scrollbar-track {
   background-color: silver;
-  border: 2px solid black;
+  border: 2px solid gray;
   border-radius: 12px 12px 12px 12px;
 }
